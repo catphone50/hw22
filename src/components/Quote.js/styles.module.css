@@ -1,0 +1,17 @@
+.loadingContainer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  max-width: 500px;
+}
+.quoteContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 500px;
+  padding: 15px 50px;
+}
+.author {
+  align-self: flex-end;
+  margin-right: 30px;
+}
